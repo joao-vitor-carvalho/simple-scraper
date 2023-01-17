@@ -1,2 +1,2 @@
 # scraper
-teste scrapy
+simple scrap with scrapy py library
